@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seleccionados</item>
+        <item quantity="zero">%1$d seleccionados</item>
+        <item quantity="one">%1$d seleccionados</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d imágenes</item>
+        <item quantity="zero">%1$d imagen</item>
+        <item quantity="one">%1$d imagen</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d elementos</item>
+        <item quantity="zero">%1$d elementos</item>
+        <item quantity="one">%1$d elemento</item>
+    </plurals>
+</resources>

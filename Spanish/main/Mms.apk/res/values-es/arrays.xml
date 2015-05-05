@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Nombre</item>
+        <item>Alias</item>
+        <item>Teléfono</item>
+        <item>Email</item>
+        <item>Empresa</item>
+        <item>Im</item>
+        <item>VoIP</item>
+        <item>Nacimiento</item>
+        <item>Web</item>
+        <item>Dirección</item>
+        <item>Notas</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Hora de recepción</item>
+        <item>Hora de envio</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via SMS</item>
+        <item>Via mensajería en la nube</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Via SMS</item>
+        <item>Via mensajería en la nube</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>Otro</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Siempre</item>
+        <item>Sólo en silencio</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>
